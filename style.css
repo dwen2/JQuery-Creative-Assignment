@@ -1,22 +1,23 @@
-p{ 
+p {
     color: #3b3a30;
     text-align: center;
 }
 
-btn{
-        color: #3b3a30;
-        text-align: center;
+btn {
+    color: #3b3a30;
+    text-align: center;
 
 }
 
-h1{
+h1 {
     color: #3b3a30;
     font: times new roman;
     background-color: #9fa9a3;
     text-align: center;
 }
 
-script{ /* doesn't seem to do much currently*/
+script {
+    /* doesn't seem to do much currently*/
     display: block;
     margin-left: auto;
     margin-right: auto;
